@@ -33,7 +33,6 @@ Interactive dashboard analyzing coffee shop sales performance.
 - How does revenue vary by store location?
 - How does sales performance change over time?
 
-**[View Project →](projects/coffee-shop-sales/)**
 
 **Key Analysis:**
 - Revenue by Month
