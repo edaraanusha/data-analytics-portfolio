@@ -57,7 +57,8 @@ A dynamic tooltip provides additional details for each product category.
 
 The interactive Power BI dashboard provides a single-page overview of coffee shop sales performance.
 
----
+
+![Coffee Shop Sales Dashboard](dashboard.png)
 
 ### 👩‍💻 Project By
 
