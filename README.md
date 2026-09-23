@@ -20,7 +20,7 @@ I'm building my skills in **Power BI, SQL, Excel, and Python** and creating prac
 
 ## 📁 Projects
 
-### ☕ Coffee Shop Sales Analysis
+### ☕ [Coffee Shop Sales Analysis](projects/coffee-shop-sales/)
 
 **Tools:** Power BI | Power Query | DAX
 
@@ -32,6 +32,8 @@ Interactive dashboard analyzing coffee shop sales performance.
 - What are the peak sales hours?
 - How does revenue vary by store location?
 - How does sales performance change over time?
+
+**[View Project →](projects/coffee-shop-sales/)**
 
 **Key Analysis:**
 - Revenue by Month
