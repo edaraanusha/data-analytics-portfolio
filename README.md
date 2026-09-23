@@ -26,6 +26,27 @@ I am actively developing practical analytics projects and looking forward to opp
 
 ## 📁 Projects
 
+### 🏦 [Bank Loan Portfolio & Customer Analysis](projects/bank-loan-analysis/)
+
+**Tools:** Power BI | Power Query | DAX
+
+Interactive dashboard analyzing loan portfolio, payment patterns, customer characteristics, and loan grade performance.
+
+**Business Questions:**
+- How has the loan portfolio changed over the years?
+- How do payments vary by verification status?
+- How does revolving balance vary across loan grades and sub-grades?
+- How does loan count vary across states and months?
+- How do payment dates differ across home ownership categories?
+
+## 📈 Key Analysis
+
+- Year-wise Loan Amount
+- Payment by Verification Status
+- Home Ownership vs. Payment Dates
+- State-wise & Month-wise Loan Count
+- Grade & Sub-Grade Wise Revolving Balance
+
 ### ☕ [Coffee Shop Sales Analysis](projects/coffee-shop-sales/)
 
 **Tools:** Power BI | Power Query | DAX
@@ -40,7 +61,7 @@ Interactive dashboard analyzing coffee shop sales performance.
 - How does sales performance change over time?
 
 
-**Key Analysis:**
+## 📈 Key Analysis
 - Revenue by Month
 - Revenue by Hour
 - Revenue by Day of Week
